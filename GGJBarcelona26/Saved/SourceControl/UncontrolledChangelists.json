@@ -7,7 +7,8 @@
 			"files": [
 				"D:/GameJams/GameJamBarcelona2026/GGJBarcelona2026/GGJBarcelona26/Content/GameObjects/BP_Mask.uasset",
 				"D:/GameJams/GameJamBarcelona2026/GGJBarcelona2026/GGJBarcelona26/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/GameJams/GameJamBarcelona2026/GGJBarcelona2026/GGJBarcelona26/Content/DevResources/St_Breath.uasset"
+				"D:/GameJams/GameJamBarcelona2026/GGJBarcelona2026/GGJBarcelona26/Content/DevResources/St_Breath.uasset",
+				"D:/GameJams/GameJamBarcelona2026/GGJBarcelona2026/GGJBarcelona26/Content/GameObjects/AC_InteractionComponent.uasset"
 			]
 		}
 	]
