@@ -1,14 +1,5 @@
-[22128:10736:0130/194523.331:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22128:18844:0130/194523.688:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22128:10736:0130/194523.840:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22128:18488:0130/194543.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[22128:10736:0130/194543.279:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[22128:10736:0130/194543.279:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[22128:10736:0130/194543.279:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[22128:10736:0130/194543.279:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[22128:18488:0130/194543.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[19796:6632:0130/194752.339:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-BA7E332178C7640435EC7AA825B6890D will be ignored
-[16912:2436:0130/194752.650:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[22128:10736:0130/203141.716:ERROR:device_event_log_impl.cc(196)] [20:31:41.659] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[22128:10736:0130/203145.455:ERROR:device_event_log_impl.cc(196)] [20:31:45.342] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[22128:10736:0130/203213.917:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16552:9520:0130/204900.897:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16552:20320:0130/204900.965:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16552:9520:0130/204901.012:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4884:10328:0130/204907.256:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1945E6CE83CD6D96BDA6A3243B01034E will be ignored
+[16552:9520:0130/212429.440:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
