@@ -1,0 +1,11 @@
+[15232:23612:0131/065729.011:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15232:13264:0131/065729.072:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15232:23612:0131/065729.116:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15232:23612:0131/065735.487:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
+[23532:18168:0131/065736.961:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1667DF1280CD260DA85E3972820F0BBA will be ignored
+[15232:18656:0131/065737.670:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15232:23612:0131/065737.714:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15232:23612:0131/065737.715:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15232:23612:0131/065737.715:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15232:23612:0131/065737.715:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15232:18656:0131/065737.781:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
