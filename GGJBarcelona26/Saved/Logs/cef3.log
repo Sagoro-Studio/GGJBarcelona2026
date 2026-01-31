@@ -1,11 +1,5 @@
-[23912:23744:0131/065830.153:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23912:17676:0131/065830.212:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23912:23744:0131/065830.252:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1108:896:0131/065834.911:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C3DF757D33A572C19AD75F89E57C1DA5 will be ignored
-[23912:22632:0131/065835.367:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[23912:23744:0131/065835.463:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[23912:23744:0131/065835.463:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[23912:23744:0131/065835.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[23912:23744:0131/065835.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[23912:22632:0131/065835.472:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[23912:23744:0131/070024.625:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[23752:18160:0131/074151.910:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23752:21132:0131/074151.969:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23752:18160:0131/074152.019:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9484:22916:0131/074157.335:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0DDA0AABE7502156A029E2C90CF912BD will be ignored
+[23752:18160:0131/074225.760:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
