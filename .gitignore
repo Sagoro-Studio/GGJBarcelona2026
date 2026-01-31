@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
-
+# Unreal Engine temporals
+GGJBarcelona26/Intermediate/
+GGJBarcelona26/Saved/
+GGJBarcelona26/DerivedDataCache/
 # Compiled Object files
 *.slo
 *.lo
@@ -49,6 +52,10 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/**/Binaries/*
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/Build/
 
 # Builds
 Build/*
