@@ -1,6 +1,12 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 2026/01/30-22:17:00.158 1840 Creating DB C:\Users\M\Documents\GitHub\GGJBarcelona2026\GGJBarcelona26\Saved\webcache_6613\Default\Session Storage since it was missing.
 2026/01/30-22:17:00.235 1840 Reusing MANIFEST C:\Users\M\Documents\GitHub\GGJBarcelona2026\GGJBarcelona26\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+=======
+2026/01/31-06:28:45.627 4dd4 Reusing MANIFEST D:\GameJams\GameJamBarcelona2026\GGJBarcelona2026\GGJBarcelona26\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/01/31-06:28:45.629 4dd4 Recovering log #3
+2026/01/31-06:28:45.631 4dd4 Reusing old log D:\GameJams\GameJamBarcelona2026\GGJBarcelona2026\GGJBarcelona26\Saved\webcache_6613\Default\Session Storage/000003.log 
+>>>>>>> Stashed changes
 =======
 2026/01/31-06:28:45.627 4dd4 Reusing MANIFEST D:\GameJams\GameJamBarcelona2026\GGJBarcelona2026\GGJBarcelona26\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
 2026/01/31-06:28:45.629 4dd4 Recovering log #3
