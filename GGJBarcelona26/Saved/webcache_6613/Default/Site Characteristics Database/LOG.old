@@ -1,5 +1,1 @@
-2026/01/30-22:16:31.539 265c Log #3: 4 ops saved to Table #4 OK
-2026/01/30-22:16:31.542 265c Archiving C:\Users\M\Documents\GitHub\GGJBarcelona2026\GGJBarcelona26\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/01/30-22:16:31.543 265c Table #4: 4 entries OK
-2026/01/30-22:16:31.549 265c Archiving C:\Users\M\Documents\GitHub\GGJBarcelona2026\GGJBarcelona26\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/01/30-22:16:31.572 265c **** Repaired leveldb C:\Users\M\Documents\GitHub\GGJBarcelona2026\GGJBarcelona26\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****
+2026/01/30-22:16:31.671 265c Reusing MANIFEST C:\Users\M\Documents\GitHub\GGJBarcelona2026\GGJBarcelona26\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
