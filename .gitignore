@@ -1,30 +1,38 @@
-# Visual Studio 2015 user specific files
-.vs/
-# Unreal Engine temporals
-GGJBarcelona26/Intermediate/
-GGJBarcelona26/Saved/
-GGJBarcelona26/DerivedDataCache/
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/Build/
+**/Binaries/
+**/.vs/
 
-# Precompiled Headers
-*.gch
-*.pch
+*.sln
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.log
+*.tmp
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+*.exe
 *.dll
+*.lib
+*.pdb
+*.obj
+*.app
+*.ipa
 
-# Fortran module files
-*.mod
 
-# Compiled Static libraries
-*.lai
-*.la
+**/webcache_*/
+**/Code Cache/
+
+
+!**/__ExternalActors__/
+!**/__ExternalObjects__/
+
+
+!**/Config/**/*.ini*.la
 *.a
 *.lib
 *.log
